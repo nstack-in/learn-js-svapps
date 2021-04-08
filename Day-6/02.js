@@ -1,2 +1,7 @@
 const sample = require("./sample.json");
-console.log(sample);
+
+let users = sample.data;
+
+users.forEach(function (e) {
+  console.log(e.balance);
+});
