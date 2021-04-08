@@ -78,3 +78,13 @@ numbers.sort(function (a, b) {
 console.log(numbers);
 // less than 0 : unchnaged
 // greater than 0 : sort b before a.
+
+// let names = ["caT", "DoG", "rAT"];
+
+// let result = names.map(function (n) {
+//   let k = n.toUpperCase();
+//   return k;
+// });
+
+// console.log(names);
+// console.log(result);

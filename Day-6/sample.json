@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "_id": "606ec4154d1b7f7c77314ffb",
+      "eyeColor": "green",
+      "name": "Olga Roth",
+      "balance": 200.95,
+      "isActive": true
+    },
+    {
+      "_id": "606ec4157105d1fb71a7cff0",
+      "eyeColor": "green",
+      "name": "Jenkins Barron",
+      "balance": 20.95,
+      "isActive": true
+    },
+    {
+      "_id": "606ec415d17cd56b3ef65e75",
+      "eyeColor": "blue",
+      "name": "Deleon Aguilar",
+      "balance": 100.05,
+      "isActive": false
+    },
+    {
+      "_id": "606ec41592ef3cc92749e331",
+      "eyeColor": "green",
+      "name": "Hopper Warner",
+      "balance": 250.0,
+      "isActive": false
+    },
+    {
+      "_id": "606ec415efc497d59e37663d",
+      "eyeColor": "brown",
+      "name": "Bruce Hensley",
+      "balance": 50,
+      "isActive": true
+    },
+    {
+      "_id": "606ec41527f2223bcb84e64f",
+      "eyeColor": "brown",
+      "name": "Gaines Freeman",
+      "balance": -2.5,
+      "isActive": false
+    }
+  ]
+}
