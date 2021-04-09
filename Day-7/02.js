@@ -29,8 +29,8 @@ let maleUserBasicInfo = maleUser.map(function (user) {
   let user_id = user.id;
   let user_name = user.name;
   let result = {
-    id: user_id,
-    name: user_name,
+    "id": user_id,
+    "name": user_name,
   };
   return result;
 });
